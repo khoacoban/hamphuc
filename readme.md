@@ -4,7 +4,7 @@
 
 -----
 
-### Giáo trình toán cao cấp 2
+### Giáo trình hàm phức & biến đổi Laplace
 - Tác giả: Ngô Ngọc Hưng; Nguyễn Đức Phương; Lã Ngọc Linh
 - Nhà xuất bản Đại học Công nghiệp TP. HCM
 - Năm xuất bản: 2022
