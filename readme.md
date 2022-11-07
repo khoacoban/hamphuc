@@ -12,6 +12,13 @@
 - IBSN: 
 
 -----
+### Nội dung thi
+
+|  Năm học |Kỳ thi|File mẫu|
+|-----------------|---------------|------------|
+|2022-2023| Giữa học kỳ 1|[Tải file](https://github.com/khoacoban/hamphuc/raw/main/huongdanontap/20222023.HK1.1GK.HamPhuc.pdf) |
+|2022-2023| Cuối học kỳ 1|[Tải file](https://github.com/khoacoban/hamphuc/raw/main/huongdanontap/20222023.HK1.2CK.HamPhuc.pdf) |
+------
 
 ### Các sai sót
 |Trang           | dòng  | Lỗi         |Chỉnh sửa|
