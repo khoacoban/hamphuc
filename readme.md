@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="30%" src="figures/iuh.png">
+  <img width="30%" src="iuh.png">
 </p>
 
 -----
