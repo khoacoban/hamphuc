@@ -27,7 +27,7 @@ Bài thi tự luận giảng viên ôn tập theo cấu trúc bên dưới
 |2022-2023| Cuối học kỳ 1|[Tải file](https://github.com/khoacoban/hamphuc/raw/main/huongdanontap/20222023.HK1.2CK.HamPhuc.pdf) |
 ------
 
-### Các sai sót
+### Các sai sót trong giáo trình
 |Trang           | dòng  | Lỗi         |Chỉnh sửa|
 |----------------|-------|-------------|---------|
 
